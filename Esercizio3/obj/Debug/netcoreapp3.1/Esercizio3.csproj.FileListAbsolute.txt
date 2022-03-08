@@ -1,0 +1,13 @@
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\bin\Debug\netcoreapp3.1\Esercizio3.exe
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\bin\Debug\netcoreapp3.1\Esercizio3.deps.json
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\bin\Debug\netcoreapp3.1\Esercizio3.runtimeconfig.json
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\bin\Debug\netcoreapp3.1\Esercizio3.runtimeconfig.dev.json
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\bin\Debug\netcoreapp3.1\Esercizio3.dll
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\bin\Debug\netcoreapp3.1\Esercizio3.pdb
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\obj\Debug\netcoreapp3.1\Esercizio3.csproj.AssemblyReference.cache
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\obj\Debug\netcoreapp3.1\Esercizio3.AssemblyInfoInputs.cache
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\obj\Debug\netcoreapp3.1\Esercizio3.AssemblyInfo.cs
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\obj\Debug\netcoreapp3.1\Esercizio3.csproj.CoreCompileInputs.cache
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\obj\Debug\netcoreapp3.1\Esercizio3.dll
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\obj\Debug\netcoreapp3.1\Esercizio3.pdb
+C:\Users\6190006\Desktop\exercises\DelegateEventi\Esercizio3\obj\Debug\netcoreapp3.1\Esercizio3.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\DelegatesEvents\linq\Esercizio\bin\Debug\Esercizio.exe.config
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\DelegatesEvents\linq\Esercizio\bin\Debug\Esercizio.exe
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\DelegatesEvents\linq\Esercizio\bin\Debug\Esercizio.pdb
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\DelegatesEvents\linq\Esercizio\obj\Debug\Esercizio.csproj.AssemblyReference.cache
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\DelegatesEvents\linq\Esercizio\obj\Debug\Esercizio.Form1.resources
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\DelegatesEvents\linq\Esercizio\obj\Debug\Esercizio.Properties.Resources.resources
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\DelegatesEvents\linq\Esercizio\obj\Debug\Esercizio.csproj.GenerateResource.cache
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\DelegatesEvents\linq\Esercizio\obj\Debug\Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\DelegatesEvents\linq\Esercizio\obj\Debug\Esercizio.exe
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\forms\DelegatesEvents\linq\Esercizio\obj\Debug\Esercizio.pdb

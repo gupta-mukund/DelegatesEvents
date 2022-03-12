@@ -1,0 +1,10 @@
+C:\Users\6190006\Desktop\exercises\DelegateEventi\delegates\Esercizio5\bin\Debug\Esercizio5.exe.config
+C:\Users\6190006\Desktop\exercises\DelegateEventi\delegates\Esercizio5\bin\Debug\Esercizio5.exe
+C:\Users\6190006\Desktop\exercises\DelegateEventi\delegates\Esercizio5\bin\Debug\Esercizio5.pdb
+C:\Users\6190006\Desktop\exercises\DelegateEventi\delegates\Esercizio5\obj\Debug\Esercizio5.csproj.AssemblyReference.cache
+C:\Users\6190006\Desktop\exercises\DelegateEventi\delegates\Esercizio5\obj\Debug\Esercizio5.Form1.resources
+C:\Users\6190006\Desktop\exercises\DelegateEventi\delegates\Esercizio5\obj\Debug\Esercizio5.Properties.Resources.resources
+C:\Users\6190006\Desktop\exercises\DelegateEventi\delegates\Esercizio5\obj\Debug\Esercizio5.csproj.GenerateResource.cache
+C:\Users\6190006\Desktop\exercises\DelegateEventi\delegates\Esercizio5\obj\Debug\Esercizio5.csproj.CoreCompileInputs.cache
+C:\Users\6190006\Desktop\exercises\DelegateEventi\delegates\Esercizio5\obj\Debug\Esercizio5.exe
+C:\Users\6190006\Desktop\exercises\DelegateEventi\delegates\Esercizio5\obj\Debug\Esercizio5.pdb
